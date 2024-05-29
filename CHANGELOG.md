@@ -7,3 +7,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+- test
+- git -c user.name=haneen-excorp -c user.email=haneen@excorp.mv commit -m "commit check"
